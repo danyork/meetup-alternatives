@@ -22,6 +22,10 @@ It is not clear yet that there is any one alternative service that provides *all
 
 ## Open Source Options
 ### Services
+
+- **[MeetingPlace.io](https://meetingplace.io/)**
+    - A new service being created as a direct response to Meetup's proposed changes
+    
 - **[gettogether.community](https://gettogether.community/)**
 - **[Joined.in](https://joind.in/)**
     - [Code available on Github](https://github.com/joindin/) - see [the About page](https://joind.in/about) for more info
